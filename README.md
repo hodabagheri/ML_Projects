@@ -1,1 +1,1 @@
-# Hoda_Bagheri
+Assignments and projects for AQM course
