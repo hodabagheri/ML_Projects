@@ -1,0 +1,1 @@
+Here I used the faithful data set for clustering using kmean algorith. I, first, used sklearn library as a benchmark and optimized the number of clusters using silhouette score. Then I implemented the sklearn library through MyKmean class. silhouette scores show identical results to sklearn library
