@@ -1,1 +1,1 @@
-Updated: Implementation of logistic regression on advertisment data
+Updated: Implementation of logistic regression on social network data
