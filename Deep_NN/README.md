@@ -1,0 +1,1 @@
+This is an implementation of a deep neural network with any number of layers. The activation function for hidden layers and final layer are RELU and sigmoid, respectively. This was one of the assignments of Deep Learning specialization in coursera.
